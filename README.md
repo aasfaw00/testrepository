@@ -1,1 +1,2 @@
-this is my first project!!!
+This is my first project!!!
+And I'm learning like a machine...
